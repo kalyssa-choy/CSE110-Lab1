@@ -1,6 +1,7 @@
 # Kalyssa Choy
 
 ## Contents
+
 - [Kalyssa Choy](#kalyssa-choy)
   - [Contents](#contents)
   - [Intro](#intro)
@@ -24,13 +25,12 @@ Hello! My name is Kalyssa Choy and I am currently a second year at UCSD studying
 
 ### Penguins
 
-Penguins are my *favorite* animal. I like their vibe and how they are portrayed in cartoons and think they are really cute. It is why my *favorite* pokemon is **Piplup**. I have a whole [pinterest board](https://pin.it/6XUsF7nLI) dedicated to penguins because I think they are so <ins>adorable</ins>.
+Penguins are my _favorite_ animal. I like their vibe and how they are portrayed in cartoons and think they are really cute. It is why my _favorite_ pokemon is **Piplup**. I have a whole [pinterest board](https://pin.it/6XUsF7nLI) dedicated to penguins because I think they are so <ins>adorable</ins>.
 
 ### Top 5 Favorite Foods
 
-
 1. Sushi (Nigiri)
-2. Udon 
+2. Udon
 3. Jiao Zi, Fried Mandu
 4. Malatang
 5. Haemul Pajeon
@@ -50,7 +50,7 @@ Penguins are my *favorite* animal. I like their vibe and how they are portrayed 
 
 ### A Quote That I Live By
 
- > Twenty years from now you will be more disappointed by the things you didn’t do than by the things you did. ~ Mark Twain
+> Twenty years from now you will be more disappointed by the things you didn’t do than by the things you did. ~ Mark Twain
 
 I really believe that taking risks and chances allows you to experience life fully. The mistakes that I make only facilitate my growth and pinpoint areas where I can focus on growth.
 
@@ -66,7 +66,6 @@ idk why i like these so much, but they're fun to use for me
 
 ## Assignment Screenshots
 
-- [Part 1: step 1 - 2](/screenshots/Step%201-2.png)
-- [Part 1: step 3 - 6](/screenshots/Step%203-6.png)
-- [Part 2](/screenshots/Staged%20Part2.png)
-
+- [Part 1: step 1 - 2](screenshots/Step%201-2.png)
+- [Part 1: step 3 - 6](screenshots/Step%203-6.png)
+- [Part 2](screenshots/Staged%20Part2.png)
